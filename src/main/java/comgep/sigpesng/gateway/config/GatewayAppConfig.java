@@ -9,7 +9,6 @@ import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.security.oauth2.jwt.JwtDecoder;
 import org.springframework.security.oauth2.jwt.NimbusJwtDecoder;
 import comgep.sigpesng.gateway.exception.ResourceExceptionHandler;
-
 import comgep.sigpesng.util.jwt.JwtKeyProperties;
 import comgep.sigpesng.util.jwt.JwtUtil;
 import comgep.sigpesng.util.jwt.ReadPublicKey;
