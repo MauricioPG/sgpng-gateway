@@ -64,6 +64,14 @@
 			<version>9.22</version>
 		</dependency>
 
+		<dependency>
+			<groupId>comgep.sgpng</groupId>
+			<artifactId>sgpng-util</artifactId>
+			<version>0.1.0</version>
+			<scope>system</scope>
+			<systemPath>${project.basedir}/libs/sgpng-util-0.1.0.jar</systemPath>
+		</dependency>
+
 	</dependencies>
 	<dependencyManagement>
 		<dependencies>
